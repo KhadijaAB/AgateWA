@@ -1,0 +1,141 @@
+{
+    "header": {
+        "title": "AGATE | أقاتي",
+        "paragraph": "Our Special Experience is Waiting For You.",
+        "knowUs": " تعرف علينا أكثر "
+    },
+    "welcome":"مرحبا",
+    "aboutTitle":" عنا",
+    "WhyToChooseUs":"لماذا تختارنا؟",
+    "about": {
+        "paragraph": "للفخامة والتميز عنوان واحد...“أقاتي”. هو العقيق أو الحجارة الكريمة هنا نأخذك إلى رحلةٍ فريدة ومميزة حيث يتلاقى المذاق الفرنسي بروح فينيسيا الإيطالية وعبق الشرق الأصيل. إرضاؤكم هو غايتنا ولأننا نؤمن بالإختصاص راهنا على خيرة الموظفين والخبرات العالمية ليجعلوا تجربتكم لا تُنسى ",
+        "Why": [
+            "إرضاؤكم هو غايتنا",
+            "نؤمن بالإختصاص"
+        ],
+        "Why2": [
+            "راهنا على خيرة الموظفين",
+            "اجتماع المذاق الفاخر بروعة المكان"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-wordpress",
+            "name": "Lorem ipsum dolor",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-cart-arrow-down",
+            "name": "Consectetur adipiscing",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-cloud-download",
+            "name": "Lorem ipsum dolor",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-language",
+            "name": "Consectetur adipiscing",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-plane",
+            "name": "Lorem ipsum dolor",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "Consectetur adipiscing",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        }
+
+
+    ],
+    "TestimonialsTitle":"آراء عملائنا",
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"مطعم ومقهى أقاتي من الأماكن اللي حقيقي أنصح بزيارتها وتستحق إنها تكون معروفة في المدينة المنورة \"",
+            "name": "هناء المدينة"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"مطعم اقاتي بالمدينـة جداً جداً المكان لطيف وحلو\"",
+            "name": "أشواق"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"اقاتي مطعم وكافيه مره يجننن افضل مطعم بالمدينه\"",
+            "name": "رفيف"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "contactInfo":"معلومات التواصل",
+        "send":"ارسال",
+        "KeepInTouch":"ابقى على تواصل",
+        "KeepInTouchBody":"للتواصل معنا، يرجى ملء النموذج أدناه وسنعاود الاتصال بك في أقرب وقت ممكن",
+        "addressTitle": "العنوان",
+        "address": "المدينة المنورة، مطل على ممشى الهجرة",
+        "phoneTitle":"الجوال",
+        "phone": "+966 00 000 0000",
+        "emailTitle": "الايميل",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "twitter": "https://twitter.com/agate_8",
+        "youtube": "youtube.com"
+    },
+    "Navigation": {
+        "name": "اقاتي",
+       "menu": "قائمة الطعام",
+       "about": "عنا",
+       "testimonials": "آراء عملائنا",
+       "contact": "تواصل معنا"
+    },
+    "SecondNav": {
+        "name": "اقاتي",
+        "back": "للخلف"
+     },
+     "Menu":"قائمة الطعام",
+     "Features": [{
+        "icon": "fa fa-magic",
+        "title": "الأكثر طلباً",
+        "text": "هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى "
+        },
+        {
+            "icon": "fa fa-cutlery",
+            "title": "المقبلات الساخنة",
+            "text": "هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى"
+        },
+        {
+            "icon": "fa fa-thumbs-o-up",
+            "title": "حلويات آقاتي",
+            "text": "هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى"
+        },
+        {
+            "icon": "fa fa-cutlery",
+            "title": "أطباق الدجاج",
+            "text": "هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى"
+        }
+    ],
+    "MostWanted":"الأكثر طلباً",
+    "MostWantedBody":"هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة"
+}
